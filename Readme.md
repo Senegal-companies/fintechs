@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="sengal_flag.png" alt="Banner" style="width: 100%; max-width: 800px;" />
+</p>
+
 # Senegal Fintechs Companies 
 ### Here is a list of all Senegales fintech companies.
 
