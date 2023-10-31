@@ -1,0 +1,67 @@
+
+{
+  "CinetPay": {
+    "logo":"assets/img_15.png",
+    "name": "CinetPay",
+    "location": "Senegal, Dakar",
+    "email": "hello@cinetpay.com",
+    "website": "https://cinetpay.com/",
+    "phone1": 221338239817,
+    "phone2": 221777396921
+  },
+  "CoinhubAfrica": {
+    "logo":"assets/img_9.png",
+    "name": "CoinhubAfrica",
+    "location": "Senegal, Dakar",
+    "email": "info@saalal.com",
+    "website": "https://saalal.com/",
+    "phone": "-"
+  },
+  "CauryMoney": {
+    "logo":"assets/img_17.png",
+    "name": "Caury Money",
+    "location": "Sénégal, Av. Cheikh Anta Diop, Mermoz, Dakar",
+    "email": "-",
+    "website": "https://cauri.money/",
+    "phone1": 33980800698
+  },
+  "Intech": {
+    "logo":"assets/img_8.png",
+    "name": "Intech",
+    "location": "Rte des Almadies, Dakar 12000",
+    "email": "contact@intech.sn",
+    "website": "https://intech.sn/",
+    "phone1": 221338259080
+  },
+  "Intouch": {
+    "logo":"assets/img_1.png",
+    "name": "Intouch",
+    "location": "Sengal, Dakar",
+    "email": "-",
+    "website": "https://en.intouchgroup.net/",
+    "phone1": 221773692823
+  },
+  "Julaya": {
+    "logo":"assets/img_16.png",
+    "name": "Julaya",
+    "location": "Sengal, Dakar",
+    "email": "-",
+    "website": "https://julaya.co/",
+    "phone1": 221778016000
+  },
+  "KoparExpress": {
+    "logo":"assets/img_7.png",
+    "name": "Kopar Express",
+    "location": "Sicap – Foire, lot 186, Dakar-Sénégal",
+    "email": "contact@koparexpress.com",
+    "website": "https://koparexpress.com/",
+    "phone1": "-"
+  },
+  "Kpay": {
+    "logo":"assets/img_16.png",
+    "name": "Kpay",
+    "location": "Sénégal, Dakar",
+    "email": "-",
+    "website": "https://kpay.sn/",
+    "phone1": "-"
+  },
