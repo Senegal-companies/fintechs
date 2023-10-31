@@ -65,3 +65,59 @@
     "website": "https://kpay.sn/",
     "phone1": "-"
   },
+  "Oryatech": {
+    "logo":"assets/img_12.png",
+    "name": "Oryatech",
+    "location": "Sénégal, Dakar",
+    "email": "-",
+    "website": "https://oryatech.com/",
+    "phone1": "-"
+  },
+  "Paycruiser": {
+    "logo":"assets/img_2.png",
+    "name": "Paycruiser",
+    "location": "Sénégal, Dakar",
+    "email": "-",
+    "website": "https://www.paycruiser.com/",
+    "phone1": "-"
+  },
+  "Paydunya": {
+    "logo":"assets/img_4.png",
+    "name": "Paydunya",
+    "location": "sénégalaise de Football, 10000 Immeuble Forum Center, VDN Batiment Samsung proche Fédération, Dakar",
+    "email": "-",
+    "website": "https://paydunya.com/",
+    "phone1": "-"
+  },
+  "Sesapay": {
+    "logo":"assets/img_4.png",
+    "name": "Sesapay",
+    "location": "Senegal, Dakar",
+    "email": "info@sesapay.sn",
+    "website": "https://www.sesapay.sn/",
+    "phone1": ""
+  },
+  "Sudpay": {
+    "logo":"assets/img_4.png",
+    "name": "Sudpay",
+    "location": "Senegal, Dakar",
+    "email": "contact@sud-pay.com",
+    "website": "https://www.sud-pay.com/",
+    "phone1": 221338359350
+  },
+  "Wave Mobile Money": {
+    "logo":"assets/img_5.png",
+    "name": "Wave Mobile Money",
+    "location": "Senegal, Dakar",
+    "email": "contact@wave.com",
+    "website": "https://www.wave.com/en/",
+    "phone1": ""
+  },
+  "Wizall": {
+    "logo":"assets/img_5.png",
+    "name": "Wizall",
+    "location": "Immeuble Yaye Fatou Dieng, Rue 1 x Rue PE 43, Dakar",
+    "email": "contact@wizall.com",
+    "website": "https://www.wizallmoney.com/accueil",
+    "phone1": "221 33 864 99 00"
+  },
