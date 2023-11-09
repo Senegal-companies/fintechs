@@ -25,6 +25,14 @@
     "website": "https://cauri.money/",
     "phone1": 33980800698
   },
+  "Dexchange": {
+    "logo":"assets/img_19.png",
+    "name": "Dexchange",
+    "location": "Dakar, Sénégal",
+    "email": "-",
+    "website": "https://web.dexchange-transfert.com/",
+    "phone1": 773435776
+  },
   "Intech": {
     "logo":"assets/img_8.png",
     "name": "Intech",
