@@ -69,7 +69,7 @@
     "logo":"assets/img_16.png",
     "name": "Kpay",
     "location": "Sénégal, Dakar",
-    "email": "-",
+    "email": "sav@kpay.sn",
     "website": "https://kpay.sn/",
     "phone1": "-"
   },
@@ -129,3 +129,13 @@
     "website": "https://www.wizallmoney.com/accueil",
     "phone1": "221 33 864 99 00"
   },
+  "YobanteExpress": {
+    "logo": "",
+    "name": "Yobante Express",
+    "location":" Ouest Foire Sur la VDN, Villa numero 6 (en face impots et domaine), Dakar, Dakar 12500, SN",
+    "email": "-",
+    "website": "https://www.yobanteexpress.com/",
+    "phone1": 221338248142,
+    "phone2": 221785327909
+  },
+  
